@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nola</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nolaagnea&label=Viewer&color=b40e0e&style=plastic" alt="nolaagnea" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nolaagnea&label=Viewer&color=b40e0e&style=plastic" alt="nolaagnea" /> </p>
 
 - 🌱 I’m currently learning **Java and Kotlin language**
 
