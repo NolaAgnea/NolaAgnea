@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and Kotlin language**
 
-- 👨‍💻 All of my projects are available at [a](a)
+- 👨‍💻 All of my projects are available at [a](b)
 
 - 💬 Ask me about **Anime and Manga**
 
