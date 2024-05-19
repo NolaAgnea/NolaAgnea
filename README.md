@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and Kotlin language**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](notdoneyet.)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://nolaagnea.github.io/)
 
 - 💬 Ask me about **Anime and Manga**
 
